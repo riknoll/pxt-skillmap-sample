@@ -15,10 +15,9 @@
         "tutorials/map2/activity1.md",
         "tutorials/lockedmap/activity1.md"
     ],
-    "testFiles": [
-    ],
+    "testFiles": [],
     "targetVersions": {
-        "target": "1.0.16",
+        "target": "1.2.10",
         "targetId": "arcade"
     },
     "supportedTargets": [
