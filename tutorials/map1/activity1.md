@@ -4,7 +4,7 @@
 
 First create a character to star in your game!
 
-![Image description](https://raw.githubusercontent.com/microsoft/pxt-tutorial-sample/master/images/enemies.gif)
+![Image description](https://raw.githubusercontent.com/riknoll/pxt-tutorial-sample/master/images/enemies.gif)
 
 ## Step One
 

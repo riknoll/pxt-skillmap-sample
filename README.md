@@ -1,11 +1,11 @@
 # MakeCode Skillmap Sample
 
-Test this by going to https://arcade.makecode.com/skillmap#github:https://github.com/microsoft/pxt-skillmap-sample/blob/main/skillmap.md
+Test this by going to https://arcade.makecode.com/skillmap#github:https://github.com/riknoll/pxt-skillmap-sample/blob/main/skillmap.md
 
 
 ## Forking
 
-If you fork this repo, be sure to change all URL references to https://github.com/microsoft/pxt-skillmap-sample to your forked repo's URL. Otherwise you won't see your changes.
+If you fork this repo, be sure to change all URL references to https://github.com/riknoll/pxt-skillmap-sample to your forked repo's URL. Otherwise you won't see your changes.
 
 ## Contributing
 
